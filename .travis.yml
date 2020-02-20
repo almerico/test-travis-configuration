@@ -1,0 +1,1 @@
+import: almerico/travis-configurations:.travis.java.yml@master
